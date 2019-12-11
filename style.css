@@ -1,0 +1,268 @@
+@charset "UTF-8";
+body {
+	margin: 0px;
+	padding: 0px;
+
+}
+
+header {
+	position: absolute;
+	margin: 0px;
+	padding: 0px;
+	top: 0px;
+	left: 0px;
+	display: inline;	
+	overflow: hidden;
+}
+
+	
+
+table{
+	width:100%
+}
+td{
+	padding: 25px 50px 25px 25px
+}
+img{ position: relative}
+
+.headtwo{ background-image: url("brianna-santellan-xtpQx26ABbM-unsplash.png");
+	top: 146px;
+  left: 0px;
+	width: 1452px;
+  height: 150px;
+	margin-top: 146px;
+	padding: 346px 0px 0px 0px;
+}
+
+.headthree{ background-image: url("priscilla-du-preez-svIdk6Ai94w-unsplash.png");
+	top: 146px;
+  left: 0px;
+	width: 1452px;
+  height: 150px;
+	margin-top: 146px;
+	padding: 346px 0px 0px 0px;
+}
+
+img[src="Icons/Solid/angle-right.png"]{
+	 position: absolute;
+	top: 332px;
+  left: 5px;
+}
+img[src="Icons/Icons/Solid/angle-right.png"]{
+	 position: absolute;
+	top: 332px;
+  left: 1307px;
+}
+
+img[src="Fall family pumpkin.png"]{
+	 position: absolute;
+	top: 200px;
+  left: 190px;
+}
+#block-one {
+	positon: absolute;
+	top: 651px;
+  	left: 0px;
+	width:1440px;
+	height:60px;
+	background-color:#75AF66;
+}
+#content{
+	
+	
+	
+	
+}
+
+img[src="patrick-fore-hoxqcGUheeo-unsplash.png"]{
+	position: absolute;
+	top:970px;
+  left:178px;
+}
+	
+
+.topnav {
+	top: 671px;
+  background-color: non;
+  overflow: hidden;
+  float: none;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #363636;
+  text-align: center;
+  padding: 15px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+img[src="Events.png"]{
+	 position: absolute;
+	top: 476px;
+  left: 143px;
+}
+img[src="Fall family pumpkin.png"]{
+	 position: absolute;
+	top: 562px;
+  left: 143px;
+}
+
+img[src="photo-1425736317462-a103b1303a35.png"]{
+	 position: absolute;
+	top: 851px;
+	left: 225px;
+}
+img[src="rolloverplanta.png"]{
+	 position: absolute;
+	top: 851px;
+	left: 225px;
+}
+img[src="ashley-van-dyke-0idia_JIPWg-unsplash.png"]{
+	 position: absolute;
+	top: 851px;
+	left: 781px;
+}
+img[src="tuan-nguy-n-minh-E_YDPhwTNeg-unsplash.png"]{
+	 position: absolute;
+	top: 1349px;
+	left: 225px;
+}
+img[src="vadim-l-mRVsExtioQA-unsplash.png"]{
+	 position: absolute;
+	top: 1349px;
+	left: 781px;
+}
+
+img[src="photo-1425736317462-a103b1303a35.png"]:hover {
+opacity:.0;	
+transition-duration: .8s;
+}
+img[src="ashley-van-dyke-0idia_JIPWg-unsplash.png"]:hover {
+opacity:.5;	
+transition-duration: .8s;
+}
+img[src="tuan-nguy-n-minh-E_YDPhwTNeg-unsplash.png"]:hover {
+opacity:.5;	
+transition-duration: .8s;
+}
+img[src="vadim-l-mRVsExtioQA-unsplash.png"]:hover {
+opacity:.5;	
+transition-duration: .8s;
+}
+img[src="rolloverplanta.png"]:hover {
+opacity:0;	
+transition-duration: .8s;
+}
+
+#tickets{
+	 positon: absolute;
+	top: 735px;
+  	left: 0px;
+	width:1440px;
+	height:170px;
+	background-color:#BDBDBD;
+}
+img[src="Join us for 3 weeken.png"]{
+	 position:absolute;
+	top: 756px;
+  left: 75px;
+}
+img[src="Rectangle.png"]{
+	 position: absolute;
+	top: 756px;
+  left: 768px;
+}
+img[src="Buy Tickets.png"]{
+	 position: absolute;
+	top: 780px;
+  left: 930px;
+	z-index: 2;
+}
+img[src="Tagawa Gardens is ce.png"]{
+	 position: absolute;
+	top: 980px;
+  left: 617px;
+	z-index: 2;
+}
+img[src="For special features.png"]{
+	 position: absolute;
+	top: 1284px;
+  left: 617px;
+	z-index: 2;
+}
+img[src="Rectangle copy.png"]{
+	 position: absolute;
+	top: 1447px;
+  left: 630px;
+	z-index: 2;
+}
+
+img[src="Rectangle copy 2.png"]{
+	 position: absolute;
+	top: 1573px;
+  left: 630px;
+	z-index: 2;
+}
+img[src="Rectangle copy 3.png"]{
+	 position: absolute;
+	top: 1714px;
+  left: 630px;
+	z-index: 2;
+}
+
+img[src="Weekend One, Oct 12.png"]{
+	  position: absolute;
+	top: 1469px;
+  left: 670px;
+	z-index: 3;
+}
+img[src="Weekend Two, Oct 19.png"]{
+	 position: absolute;
+	top: 1595px;
+  left: 670px;
+	z-index: 3
+		;
+}
+img[src="Weekend Three, Oct 2.png"]{
+	 position: absolute;
+	top: 1737px;
+  left: 660px;
+	z-index: 3;
+}
+
+
+
+
+
+#butt {
+	position:relative;
+	top: 1200px;
+  	left: 0px;
+	width:1540px;
+	height:auto;
+	background-color:#75AF66;
+}
+
+#butt img {
+	margin-left: 300px;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+
+}
+
+p {
+
+}
